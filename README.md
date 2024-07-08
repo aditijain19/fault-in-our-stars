@@ -1,6 +1,8 @@
 # fault-in-our-stars
 blog on the book the fault in our stars .(content taken from respective sites on internet)
 
+site live : https://aditijain19.github.io/fault-in-our-stars/
+
 ![Capture](https://user-images.githubusercontent.com/113169654/189386500-79f0c975-9290-4079-a791-591fcdff129c.PNG)
 
 ![2](https://user-images.githubusercontent.com/113169654/189386972-036c4dc8-8f6d-460c-98c9-24bbe5c36a0b.PNG)
